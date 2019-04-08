@@ -6,13 +6,13 @@
 4) Crear un formulario básico para la edición de datos de clientes.
 5) Crear una tabla con el listado, ordenado por nombre, de los clientes.
 
-Datos de clientes: ID,Nombre, DNI.
-Datos de la localidad: ID, Nombre.
+* Datos de clientes: ID,Nombre, DNI.
+* Datos de la localidad: ID, Nombre.
 
 Campos en el formulario de agregar/editar cliente:
-Nombre: texto
-DNI: numero
-Localidad: Select (trayendo los datos de la base de datos de localidades).
+- Nombre: texto
+- DNI: numero
+- Localidad: Select (trayendo los datos de la base de datos de localidades).
 
 # Campos a mostrar en la table de clientes
 1) ID Cliente
