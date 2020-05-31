@@ -4,23 +4,25 @@
 2) Utilizar el archivo class.database.php para conectar a la base de datos.
 3) Crear un formulario básico para el alta de datos de clientes.
 4) Crear un formulario básico para la edición de datos de clientes.
-5) Crear una tabla con el listado, ordenado por nombre, de los clientes.
-
-* Datos de clientes: ID,Nombre, DNI.
-* Datos de la localidad: ID, Nombre.
-* Datos de provincia: ID, Nombre
+5) Crear los listados A y B
 
 Campos en el formulario de agregar/editar cliente:
 - Nombre: texto
 - DNI: numero
 - Localidad (Provincia): Select (trayendo los datos de la base de datos de localidades y provincias).
 
-# Campos a mostrar en la table de clientes
+# A) Campos a mostrar en la table de clientes
 1) ID Cliente
 2) Nombre de cliente
 3) Dni de cliente
 4) Nombre de la localidad.
 5) Provincia
+
+# B) Campos a mostrar en la table de Provincia
+1) ID Provincionas
+2) Nombre de Provincia
+3) Nombre de Localidad
+5) Cantidad de clientes asignados a esa localidad
 
 # Lenguajes para la programación:
 HTML, CSS, PHP, MySQL, Javascript, Jquery.
