@@ -16,10 +16,10 @@ Campos en el formulario de agregar/editar cliente:
 2) Nombre de cliente
 3) Dni de cliente
 4) Nombre de la localidad.
-5) Provincia
+5) Nombre de la Provincia
 
 # B) Campos a mostrar en la tabla de Provincia
-1) ID Provincionas
+1) ID Provincia
 2) Nombre de Provincia
 3) Nombre de Localidad
 5) Cantidad de clientes asignados a esa localidad
