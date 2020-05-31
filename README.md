@@ -11,14 +11,14 @@ Campos en el formulario de agregar/editar cliente:
 - DNI: numero
 - Localidad (Provincia): Select (trayendo los datos de la base de datos de localidades y provincias).
 
-# A) Campos a mostrar en la table de clientes
+# A) Campos a mostrar en la tabla de clientes
 1) ID Cliente
 2) Nombre de cliente
 3) Dni de cliente
 4) Nombre de la localidad.
 5) Provincia
 
-# B) Campos a mostrar en la table de Provincia
+# B) Campos a mostrar en la tabla de Provincia
 1) ID Provincionas
 2) Nombre de Provincia
 3) Nombre de Localidad
