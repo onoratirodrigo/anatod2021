@@ -6,6 +6,12 @@
 4) Crear un formulario básico para la edición de datos de clientes. (Formulario 1)
 5) Crear los listados A y B
 
+# Usar la siguiente base de datos MySQL
+user      =   'test'
+pass      =   'test5678'
+db        =   'test_anatod'
+ip        =   'anatod-test.c75o4mima6rb.us-east-1.rds.amazonaws.com'
+
 # FORMULARIO 1) Campos en el formulario de agregar/editar cliente:
 - Nombre: texto
 - DNI: numero
